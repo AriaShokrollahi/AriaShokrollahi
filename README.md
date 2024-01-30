@@ -1,6 +1,6 @@
 ## Hi, I'm Aria 👋🏻👨🏻‍💻
 
-![alt text align="center"](https://github.com/AriaShokrollahi/AriaShokrollahi/blob/main/msedge_SxiJHcJw2x.png)
+![alt text align="center"](https://github.com/AriaShokrollahi/AriaShokrollahi/blob/main/msedge_nEQDJVfI2D.png)
 
 # Web Development Expertise
 
