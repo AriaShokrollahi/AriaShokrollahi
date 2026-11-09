@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,100:06B6D4&height=220&section=header&text=ARIA%20SHOKROLLAHI&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=UI%2FUX%20DESIGNER%20%7C%20FRONT-END%20DEVELOPER&descSize=16&descAlignY=58"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:5238FF&height=220&section=header&text=ARIA%20SHOKROLLAHI&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=UI%2FUX%20DESIGNER%20%7C%20FRONT-END%20DEVELOPER&descSize=16&descAlignY=58"
     width="100%"
     alt="Aria Shokrollahi — UI/UX Designer and Front-End Developer"
   />
@@ -69,19 +69,18 @@ Feel free to reach out for collaborations, project ideas, or just to talk about 
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=AriaShokrollahi&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
-    height="165"
-    alt="Aria's GitHub stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriaShokrollahi&layout=compact&hide_border=true&theme=transparent"
-    height="165"
-    alt="Most used languages"
-  />
-</p>
+
+<h3 align="center">📊 GitHub Statistics</h3>
 
 <p align="center">
-  <sub>Design with purpose. Build with curiosity. Keep learning.</sub>
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=AriaShokrollahi&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
+    height="165"
+    alt="Aria's GitHub Stats"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=AriaShokrollahi&layout=compact&hide_border=true&theme=transparent"
+    height="165"
+    alt="Most Used Languages"
+  />
 </p>
