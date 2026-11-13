@@ -1,91 +1,166 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AriaShokrollahi/AriaShokrollahi/0400ef9d3db591c535fa14c7af003bd66cf06867/assets/profile-solar-system.svg" />
+
+<img
+  src="https://raw.githubusercontent.com/AriaShokrollahi/AriaShokrollahi/main/assets/profile-solar-system.svg"
+  width="100%"
+  alt="Aria's solar system banner"
+/>
+
+<br />
+
+<sub>MY SKILLS ARE THE PLANETS. MY PROJECTS ORBIT AROUND CURIOSITY.</sub>
+
 </div>
 
-<h2 align="center">Hi, I'm Aria Shokrollahi</h2>
-<h3 align="center">UI/UX Designer &amp; Front-End Developer</h3>
-
-<p align="center">
-  I design thoughtful digital experiences and turn ideas into clean, responsive interfaces.
-  <br />
-  I enjoy connecting design and development to build products that are useful, clear, and enjoyable to use.
-</p>
-
-<p align="center">
-  <strong>I am the sun; my skills are the planets, and my projects orbit around curiosity.</strong>
-</p>
-
----
-
-## THE SUN — ABOUT ME
-
-<div align="center">
-  <img src="https://github.com/AriaShokrollahi.png" width="92" alt="Aria Shokrollahi" />
-  <p><strong>Aria Shokrollahi</strong><br />UI/UX Designer · Front-End Developer</p>
-</div>
-
-- Designing user-centered interfaces and prototypes with **Figma**.
-- Building responsive web experiences with **HTML, CSS, and JavaScript**.
-- Creating and customizing websites with **WordPress and Elementor**.
-- Exploring UX research, usability, design systems, and interaction design.
-- Developing Windows desktop utilities with **C# and Windows Forms**.
-
-## PROJECTS IN ORBIT
+<br />
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/AriaShokrollahi/karman">Karman</a></h3>
-      <p>A modern Persian landing page for an AI-powered compliance platform, focused on product storytelling and user experience.</p>
-      <sub>UI/UX · HTML · CSS · JavaScript · RTL</sub>
+    <td width="72%" valign="middle">
+      <sub>✦ THE PERSON BEHIND THE ORBIT</sub>
+      <h1>Hi, I'm Aria 👋</h1>
+      <h3>UI/UX Designer · Front-End Developer</h3>
+      <p>
+        I design thoughtful digital experiences and turn ideas into clean,
+        responsive interfaces. I enjoy connecting design and development to
+        build products that are useful, polished, and enjoyable to use.
+      </p>
+      <p>
+        🎨 Figma &nbsp;·&nbsp; 💻 Front-End &nbsp;·&nbsp;
+        🧩 WordPress &nbsp;·&nbsp; 🪟 C# &amp; Windows Forms
+      </p>
+      <a href="https://www.linkedin.com/in/aria-shokrollahi-143a682b9/">
+        <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
+      </a>
+      &nbsp;
+      <a href="https://t.me/ariashokrollahi">
+        <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=flat-square&amp;logo=telegram&amp;logoColor=white" alt="Telegram" />
+      </a>
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/AriaShokrollahi/TaskFlow">TaskFlow</a></h3>
-      <p>A responsive Persian RTL dashboard concept for team projects, task tracking, progress summaries, and data visualization.</p>
-      <sub>Dashboard UI · HTML · CSS · JavaScript</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/AriaShokrollahi/Auto-Theme-Switcher">Auto Theme Switcher</a></h3>
-      <p>A Windows utility that schedules Light and Dark themes, switches wallpapers, and provides desktop clock widgets.</p>
-      <sub>C# · Windows Forms · Win32 API</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/AriaShokrollahi/payamakino">Payamakino</a></h3>
-      <p>A Persian SMS marketing product prototype with campaign interfaces, analytics dashboard, and an AI-assisted message-writing concept.</p>
-      <sub>Product UI · HTML · CSS · JavaScript</sub>
+    <td width="28%" align="center">
+      <img
+        src="https://github.com/AriaShokrollahi.png"
+        width="135"
+        alt="Aria Shokrollahi"
+      />
+      <br />
+      <sub>DESIGNER · BUILDER · CURIOUS MIND</sub>
     </td>
   </tr>
 </table>
 
-## MY TOOLKIT
+<br />
+
+<h2 align="center">✦ PROJECT ORBIT ✦</h2>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>01 / DESKTOP TOOL</sub>
+      <h3>🌓 Auto Theme Switcher</h3>
+      <p>
+        A Windows utility that switches light and dark themes, changes
+        wallpapers, and brings clock widgets to the desktop.
+      </p>
+      <sub>C# · WINDOWS FORMS</sub>
+    </td>
+    <td width="50%" valign="top">
+      <sub>02 / PRODUCT CONCEPT</sub>
+      <h3>✉️ Payamakino</h3>
+      <p>
+        A Persian SMS marketing platform concept, with campaign tools,
+        a dashboard, and AI-assisted message writing.
+      </p>
+      <sub>PRODUCT DESIGN · PERSIAN UI</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>03 / DASHBOARD CONCEPT</sub>
+      <h3>📋 TaskFlow</h3>
+      <p>
+        A responsive Persian RTL workspace for team projects, tasks,
+        progress summaries, and data visualizations.
+      </p>
+      <sub>RESPONSIVE UI · RTL · DATA VIZ</sub>
+    </td>
+    <td width="50%" valign="top">
+      <sub>04 / LANDING PAGE</sub>
+      <h3>✦ Karman</h3>
+      <p>
+        A modern Persian landing page for an AI-powered compliance platform,
+        focused on a clear story and polished product experience.
+      </p>
+      <sub>WEB DESIGN · PRODUCT STORYTELLING</sub>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<h2 align="center">✦ MY TOOLKIT ✦</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,html,css,js,wordpress,cs,dotnet,git,github,vscode&perline=5" alt="Figma, HTML, CSS, JavaScript, WordPress, C Sharp, .NET, Git, GitHub and VS Code" />
+  <img
+    src="https://skillicons.dev/icons?i=figma,html,css,js,wordpress,cs,dotnet,git,github,vscode&amp;perline=10"
+    alt="Figma, HTML, CSS, JavaScript, WordPress, C Sharp, .NET, Git, GitHub, and VS Code"
+  />
 </p>
 
-## CURRENTLY EXPLORING
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>DESIGN &amp; EXPERIENCE</sub>
+      <p>Figma · UI/UX · Prototyping · UX Research</p>
+    </td>
+    <td width="50%" valign="top">
+      <sub>DEVELOPMENT</sub>
+      <p>HTML · CSS · JavaScript · C# · Windows Forms</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>WEB &amp; CMS</sub>
+      <p>Responsive Interfaces · WordPress · Elementor</p>
+    </td>
+    <td width="50%" valign="top">
+      <sub>EXPLORING NEXT</sub>
+      <p>Design Systems · Reusable Components · Usability Testing</p>
+    </td>
+  </tr>
+</table>
 
-- Improving JavaScript fundamentals and front-end development.
-- Deepening UX research and usability testing skills.
-- Building reusable components and scalable design systems in Figma.
-- Creating polished web and desktop experiences.
+<br />
 
-## GITHUB ACTIVITY
+<h2 align="center">✦ GITHUB / SYSTEM STATUS ✦</h2>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/5238FF/AriaShokrollahi" alt="Aria's GitHub contribution graph" width="100%" />
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=AriaShokrollahi&amp;show_icons=true&amp;hide_border=true&amp;theme=transparent&amp;rank_icon=github"
+    height="155"
+    alt="GitHub statistics"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=AriaShokrollahi&amp;layout=compact&amp;hide_border=true&amp;theme=transparent"
+    height="155"
+    alt="Most used languages"
+  />
 </p>
 
 <p align="center">
-  <a href="https://github.com/AriaShokrollahi">GitHub</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/aria-shokrollahi-143a682b9/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://t.me/ariashokrollahi">Telegram</a>
+  <img
+    src="https://streak-stats.demolab.com/?user=AriaShokrollahi&amp;theme=github-dark-blue&amp;hide_border=true"
+    height="150"
+    alt="GitHub contribution streak"
+  />
 </p>
 
-<p align="center">
-  <sub>DESIGN WITH PURPOSE · BUILD WITH CURIOSITY · KEEP EXPLORING</sub>
-</p>
+[![Aria's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AriaShokrollahi)](https://github.com/AriaShokrollahi)
+
+
+
+<br /><br />
+
+<sub>DESIGN WITH PURPOSE · BUILD WITH CURIOSITY · KEEP LEARNING ✨</sub>
+
+</div>
