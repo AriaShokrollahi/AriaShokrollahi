@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AriaShokrollahi/AriaShokrollahi/main/assets/profile-solar-system.svg" width="100%" alt="Aria Shokrollahi — Solar System inspired developer profile" />
+  <img src="assets/profile-solar-system.svg" />
 </div>
 
 <h2 align="center">Hi, I'm Aria Shokrollahi</h2>
