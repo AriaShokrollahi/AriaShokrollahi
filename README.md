@@ -1,86 +1,91 @@
 <div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:5238FF&height=220&section=header&text=ARIA%20SHOKROLLAHI&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=UI%2FUX%20DESIGNER%20%7C%20FRONT-END%20DEVELOPER&descSize=16&descAlignY=58"
-    width="100%"
-    alt="Aria Shokrollahi — UI/UX Designer and Front-End Developer"
-  />
+  <img src="./assets/profile-solar-system.svg" width="100%" alt="Aria Shokrollahi — Solar System inspired developer profile" />
 </div>
 
-<h2 align="center">Hi there, I'm Aria 👋</h2>
-<h3 align="center">UI/UX Designer & Front-End Developer</h3>
+<h2 align="center">Hi, I'm Aria Shokrollahi</h2>
+<h3 align="center">UI/UX Designer &amp; Front-End Developer</h3>
 
 <p align="center">
   I design thoughtful digital experiences and turn ideas into clean, responsive interfaces.
   <br />
-  I enjoy connecting design and development to build products that are both useful and enjoyable to use.
+  I enjoy connecting design and development to build products that are useful, clear, and enjoyable to use.
 </p>
-
----
-
-### 👨‍💻 About Me
-
-I'm a UI/UX Designer and Front-End Developer interested in the complete process of creating digital products — from understanding user needs and designing interfaces in Figma to building responsive websites and interactive experiences.
-
-- 🎨 Designing modern, user-centered interfaces and prototypes with **Figma**
-- 💻 Building responsive web interfaces with **HTML, CSS, and JavaScript**
-- 🧩 Creating and customizing websites with **WordPress and Elementor**
-- 🪟 Developing practical Windows desktop utilities with **C# and Windows Forms**
-- 🔍 Exploring UX research, usability, and better product experiences
-
-### 🤝 Connect with me
-
-<p>
-  <a href="https://www.linkedin.com/in/aria-shokrollahi-143a682b9/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://t.me/ariashokrollahi">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://github.com/AriaShokrollahi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-Feel free to reach out for collaborations, project ideas, or just to talk about design and development.
-
----
-
-### 🔭 Featured Projects
-
-- **[Auto Theme Switcher](https://github.com/AriaShokrollahi/Auto-Theme-Switcher)** — A Windows desktop utility that automatically switches between Light and Dark themes, changes wallpapers, and includes desktop clock widgets. Built with C# and Windows Forms.
-- **[Payamakino](https://github.com/AriaShokrollahi/payamakino)** — A Persian SMS marketing platform prototype featuring a landing page, dashboard, campaign UI, and an AI-assisted message-writing experience.
-- **[TaskFlow](https://github.com/AriaShokrollahi/TaskFlow)** — A responsive, Persian RTL dashboard concept for managing team projects and tasks, with progress summaries and data visualizations.
-- **[Karman](https://github.com/AriaShokrollahi/karman)** — A modern Persian landing page for an AI-powered compliance platform, focused on product presentation and user experience.
-
-### 🛠️ Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,html,css,js,wordpress,cs,dotnet,git,github,vscode&perline=5" alt="Tools and technologies" />
-</p>
-
-### 🌱 Currently Learning & Exploring
-
-- Strengthening my **JavaScript** fundamentals and front-end development skills
-- Improving my **UX research** and usability testing workflow
-- Exploring **design systems**, reusable components, and advanced Figma workflows
-- Building more polished and practical web and desktop experiences
-
----
-
-### 📊 GitHub Stats
-
-
-<h3 align="center">📊 GitHub Statistics</h3>
 
 <p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=AriaShokrollahi&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
-    height="165"
-    alt="Aria's GitHub Stats"
-  />
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=AriaShokrollahi&layout=compact&hide_border=true&theme=transparent"
-    height="165"
-    alt="Most Used Languages"
-  />
+  <strong>I am the sun; my skills are the planets, and my projects orbit around curiosity.</strong>
+</p>
+
+---
+
+## THE SUN — ABOUT ME
+
+<div align="center">
+  <img src="https://github.com/AriaShokrollahi.png" width="92" alt="Aria Shokrollahi" />
+  <p><strong>Aria Shokrollahi</strong><br />UI/UX Designer · Front-End Developer</p>
+</div>
+
+- Designing user-centered interfaces and prototypes with **Figma**.
+- Building responsive web experiences with **HTML, CSS, and JavaScript**.
+- Creating and customizing websites with **WordPress and Elementor**.
+- Exploring UX research, usability, design systems, and interaction design.
+- Developing Windows desktop utilities with **C# and Windows Forms**.
+
+## PROJECTS IN ORBIT
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AriaShokrollahi/karman">Karman</a></h3>
+      <p>A modern Persian landing page for an AI-powered compliance platform, focused on product storytelling and user experience.</p>
+      <sub>UI/UX · HTML · CSS · JavaScript · RTL</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AriaShokrollahi/TaskFlow">TaskFlow</a></h3>
+      <p>A responsive Persian RTL dashboard concept for team projects, task tracking, progress summaries, and data visualization.</p>
+      <sub>Dashboard UI · HTML · CSS · JavaScript</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AriaShokrollahi/Auto-Theme-Switcher">Auto Theme Switcher</a></h3>
+      <p>A Windows utility that schedules Light and Dark themes, switches wallpapers, and provides desktop clock widgets.</p>
+      <sub>C# · Windows Forms · Win32 API</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AriaShokrollahi/payamakino">Payamakino</a></h3>
+      <p>A Persian SMS marketing product prototype with campaign interfaces, analytics dashboard, and an AI-assisted message-writing concept.</p>
+      <sub>Product UI · HTML · CSS · JavaScript</sub>
+    </td>
+  </tr>
+</table>
+
+## MY TOOLKIT
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,html,css,js,wordpress,cs,dotnet,git,github,vscode&perline=5" alt="Figma, HTML, CSS, JavaScript, WordPress, C Sharp, .NET, Git, GitHub and VS Code" />
+</p>
+
+## CURRENTLY EXPLORING
+
+- Improving JavaScript fundamentals and front-end development.
+- Deepening UX research and usability testing skills.
+- Building reusable components and scalable design systems in Figma.
+- Creating polished web and desktop experiences.
+
+## GITHUB ACTIVITY
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/5238FF/AriaShokrollahi" alt="Aria's GitHub contribution graph" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/AriaShokrollahi">GitHub</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/aria-shokrollahi-143a682b9/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://t.me/ariashokrollahi">Telegram</a>
+</p>
+
+<p align="center">
+  <sub>DESIGN WITH PURPOSE · BUILD WITH CURIOSITY · KEEP EXPLORING</sub>
 </p>
