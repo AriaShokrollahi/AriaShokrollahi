@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="560" viewBox="0 0 1600 560" role="img" aria-labelledby="title desc">
+  <title id="title">Aria Shokrollahi — Solar System</title>
+  <desc id="desc">A dark, violet solar-system inspired illustration representing Aria's design and development universe.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#000000"/>
+      <stop offset=".58" stop-color="#080614"/>
+      <stop offset="1" stop-color="#160C38"/>
+    </linearGradient>
+    <radialGradient id="nebula">
+      <stop offset="0" stop-color="#5238FF" stop-opacity=".34"/>
+      <stop offset=".52" stop-color="#5238FF" stop-opacity=".10"/>
+      <stop offset="1" stop-color="#5238FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="sun" cx=".35" cy=".3">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset=".18" stop-color="#D9D1FF"/>
+      <stop offset=".53" stop-color="#785EFF"/>
+      <stop offset="1" stop-color="#5238FF"/>
+    </radialGradient>
+    <linearGradient id="planet" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#B9AEFF"/>
+      <stop offset=".55" stop-color="#735BFF"/>
+      <stop offset="1" stop-color="#3320B8"/>
+    </linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="24"/>
+    </filter>
+    <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="560" rx="28" fill="url(#bg)"/>
+  <ellipse cx="800" cy="280" rx="720" ry="430" fill="url(#nebula)"/>
+  <ellipse cx="800" cy="280" rx="470" ry="260" fill="url(#nebula)" opacity=".8"/>
+
+  <!-- Star field -->
+  <g fill="#FFFFFF">
+    <circle cx="90" cy="98" r="2" opacity=".65"/><circle cx="168" cy="355" r="1.7" opacity=".5"/>
+    <circle cx="255" cy="184" r="1.3" opacity=".7"/><circle cx="330" cy="460" r="1.8" opacity=".45"/>
+    <circle cx="412" cy="90" r="1.4" opacity=".55"/><circle cx="505" cy="390" r="1.2" opacity=".55"/>
+    <circle cx="600" cy="160" r="1.7" opacity=".6"/><circle cx="685" cy="480" r="1.3" opacity=".5"/>
+    <circle cx="930" cy="78" r="1.5" opacity=".6"/><circle cx="1010" cy="454" r="1.8" opacity=".5"/>
+    <circle cx="1100" cy="125" r="1.2" opacity=".6"/><circle cx="1190" cy="365" r="1.7" opacity=".55"/>
+    <circle cx="1295" cy="94" r="1.3" opacity=".65"/><circle cx="1390" cy="270" r="1.7" opacity=".6"/>
+    <circle cx="1480" cy="430" r="1.4" opacity=".5"/><circle cx="1520" cy="160" r="1.2" opacity=".7"/>
+    <circle cx="210" cy="510" r="1" opacity=".4"/><circle cx="740" cy="58" r="1" opacity=".45"/>
+    <circle cx="870" cy="520" r="1" opacity=".5"/><circle cx="1320" cy="500" r="1" opacity=".45"/>
+  </g>
+  <g stroke="#C7BEFF" stroke-width="1.5" opacity=".55">
+    <path d="M130 245h12m-6-6v12"/><path d="M430 280h10m-5-5v10"/>
+    <path d="M1170 210h12m-6-6v12"/><path d="M1450 345h10m-5-5v10"/>
+    <path d="M980 135h10m-5-5v10"/>
+  </g>
+
+  <!-- Orbit paths -->
+  <g fill="none" stroke="#8B7BFF" stroke-width="1.5">
+    <ellipse cx="800" cy="282" rx="570" ry="166" transform="rotate(-11 800 282)" opacity=".42"/>
+    <ellipse cx="800" cy="282" rx="440" ry="235" transform="rotate(18 800 282)" opacity=".28"/>
+    <ellipse cx="800" cy="282" rx="675" ry="112" transform="rotate(7 800 282)" opacity=".18"/>
+  </g>
+  <g fill="none" stroke="#5238FF" stroke-width="2">
+    <path d="M230 160C415 20 1110 15 1370 205" opacity=".25"/>
+    <path d="M215 390C520 560 1120 560 1400 350" opacity=".22"/>
+  </g>
+
+  <!-- Orbital nodes -->
+  <g>
+    <circle cx="340" cy="175" r="42" fill="#5238FF" opacity=".18" filter="url(#softGlow)"/>
+    <circle cx="340" cy="175" r="24" fill="url(#planet)" stroke="#DAD4FF" stroke-opacity=".7"/>
+    <text x="340" y="181" text-anchor="middle" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="17" font-weight="700">F</text>
+    <text x="340" y="222" text-anchor="middle" fill="#D8D3F5" font-family="Arial,sans-serif" font-size="14" letter-spacing="2">FIGMA</text>
+
+    <circle cx="1260" cy="173" r="40" fill="#5238FF" opacity=".16" filter="url(#softGlow)"/>
+    <circle cx="1260" cy="173" r="23" fill="#17132B" stroke="#9C8DFF" stroke-width="2"/>
+    <text x="1260" y="179" text-anchor="middle" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="15" font-weight="700">H</text>
+    <text x="1260" y="220" text-anchor="middle" fill="#D8D3F5" font-family="Arial,sans-serif" font-size="14" letter-spacing="2">HTML</text>
+
+    <circle cx="420" cy="405" r="38" fill="#5238FF" opacity=".17" filter="url(#softGlow)"/>
+    <circle cx="420" cy="405" r="22" fill="#21175B" stroke="#9C8DFF" stroke-width="2"/>
+    <text x="420" y="411" text-anchor="middle" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="15" font-weight="700">C</text>
+    <text x="420" y="447" text-anchor="middle" fill="#D8D3F5" font-family="Arial,sans-serif" font-size="14" letter-spacing="2">CSS</text>
+
+    <circle cx="1195" cy="405" r="38" fill="#5238FF" opacity=".17" filter="url(#softGlow)"/>
+    <circle cx="1195" cy="405" r="22" fill="#302070" stroke="#9C8DFF" stroke-width="2"/>
+    <text x="1195" y="411" text-anchor="middle" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="14" font-weight="700">JS</text>
+    <text x="1195" y="447" text-anchor="middle" fill="#D8D3F5" font-family="Arial,sans-serif" font-size="14" letter-spacing="2">JAVASCRIPT</text>
+  </g>
+
+  <!-- Central sun -->
+  <circle cx="800" cy="282" r="116" fill="#5238FF" opacity=".22" filter="url(#glow)"/>
+  <circle cx="800" cy="282" r="76" fill="none" stroke="#A99CFF" stroke-opacity=".5" stroke-width="1.5"/>
+  <circle cx="800" cy="282" r="62" fill="url(#sun)"/>
+  <circle cx="800" cy="282" r="49" fill="none" stroke="#FFFFFF" stroke-opacity=".48"/>
+  <text x="800" y="295" text-anchor="middle" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="37" font-weight="800" letter-spacing="1">AS</text>
+  <circle cx="800" cy="282" r="91" fill="none" stroke="#8D7AFF" stroke-width="1" stroke-dasharray="2 10" opacity=".85"/>
+
+  <!-- Header labels -->
+  <text x="78" y="72" fill="#A99CFF" font-family="Arial,sans-serif" font-size="13" letter-spacing="3">ARIA SHOKROLLAHI / DIGITAL UNIVERSE</text>
+  <text x="1520" y="72" text-anchor="end" fill="#8F8AAB" font-family="Arial,sans-serif" font-size="12" letter-spacing="2">DESIGN · BUILD · EXPLORE</text>
+  <text x="800" y="520" text-anchor="middle" fill="#C8C1F2" font-family="Arial,sans-serif" font-size="13" letter-spacing="4">MY SKILLS ARE THE PLANETS. MY PROJECTS ORBIT AROUND CURIOSITY.</text>
+</svg>
